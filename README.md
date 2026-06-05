@@ -1,5 +1,4 @@
-# Zomato_Restaurants_Data_analysis_project
-[README (1).md](https://github.com/user-attachments/files/28624650/README.1.md)
+
 # 🍕 Zomato Restaurants Analysis — Power BI Dashboard
 
 ![Dashboard Preview](Zomato_Dashboard_Preview.png)
