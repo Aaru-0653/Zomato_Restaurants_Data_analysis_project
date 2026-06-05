@@ -74,5 +74,5 @@ An interactive **Power BI dashboard** analyzing Zomato's global restaurant data 
 **Aarzoo Panwar**
 Final Year B.Tech — CSE (AI & ML) | DPG Institute of Technology & Management, Gurugram
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/aarzoo-panwar0653/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aarzoo-panwar0653/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Aaru-0653)
